@@ -1,0 +1,69 @@
+reduce: 12.5
+item_add_chance:
+  1:
+    name: '§8Набор Кузнеца (1ур.)'
+    add_chance: 5
+    chance_break: 25
+  2:
+    name: '§aНабор Кузнеца (2ур.)'
+    add_chance: 15
+    chance_break: 20
+  3:
+    name: '§4Набор Кузнеца (3ур.)'
+    add_chance: 30
+    chance_break: 15
+  4:
+    name: '§6Набор Кузнеца (4ур.)'
+    add_chance: 50
+    chance_break: 5
+enchantments_limits:
+  blacksmithlv0:
+    max_enchants_level:
+      default: 3
+    chance:
+      default: 50
+  blacksmithlv1:
+    max_enchants_level:
+      default: 3
+    chance:
+      default: 50
+  blacksmithlv2:
+    max_enchants_level:
+      default: 3
+    chance:
+      default: 50
+  blacksmithlv3:
+    max_enchants_level:
+      default: 3
+    chance:
+      default: 50
+  blacksmithlv4:
+    max_enchants_level:
+      default: 3
+    chance:
+      default: 50
+  blacksmithlv5:
+    max_enchants_level:
+      default: 3
+    chance:
+      default: 50
+  blacksmithlv6:
+    max_enchants_level:
+      default: 3
+    chance:
+      default: 50
+  blacksmithlv7:
+    max_enchants_level:
+      default: 3
+    chance:
+      default: 50
+  blacksmithlv8:
+    max_enchants_level:
+      default: 3
+    chance:
+      default: 50
+  blacksmithlv9:
+    max_enchants_level:
+      default: 3
+    chance:
+      default: 50

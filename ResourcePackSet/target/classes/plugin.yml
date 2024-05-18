@@ -1,0 +1,14 @@
+name: ResourcePackSet
+version: '1.0-SNAPSHOT'
+main: org.resourcepackset.resourcepackset.ResourcePackSet
+api-version: 1.18
+authors: [Filabdict]
+commands:
+  rp_set:
+    usage: '/rp_set <name> <link>'
+    permission: resourcepackset
+  rp_get:
+    usage: '/rp_get <name>'
+  rp_delete:
+    usage: '/rp_delete <name>'
+    permission: resourcepackset

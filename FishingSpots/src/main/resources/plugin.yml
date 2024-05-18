@@ -1,0 +1,10 @@
+name: FishingSpots
+version: 1.0.0
+main: org.fishingspots.fishingspots.FishingSpots
+api-version: 1.18
+author: Filabdict
+commands:
+  reload:
+    permission: FishingSpots
+  add_item:
+    permission: FishingSpots

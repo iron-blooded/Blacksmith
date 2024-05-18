@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: io.papermc.paper:paper-api:1.18.1-R0.1-SNAPSHOT" type="java-imported" external-system-id="Maven">
+    <properties groupId="io.papermc.paper" artifactId="paper-api" version="1.18.1-R0.1-20220228.153921-147" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/papermc/paper/paper-api/1.18.1-R0.1-SNAPSHOT/paper-api-1.18.1-R0.1-20220228.153921-147.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/papermc/paper/paper-api/1.18.1-R0.1-SNAPSHOT/paper-api-1.18.1-R0.1-20220228.153921-147-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/papermc/paper/paper-api/1.18.1-R0.1-SNAPSHOT/paper-api-1.18.1-R0.1-20220228.153921-147-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

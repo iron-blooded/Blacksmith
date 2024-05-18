@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GoldenChest">
+    <output-path>$USER_HOME$/Рабочий стол/my plugins</output-path>
+    <root id="archive" name="GoldenChest.jar">
+      <element id="module-output" name="GoldenChest" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources" />
+    </root>
+  </artifact>
+</component>

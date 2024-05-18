@@ -1,0 +1,127 @@
+factor_lucky: 33
+items:
+  1:
+    name: '&1Кислота из Моря'
+    chance: 0.0025
+    material: 'potion'
+    color: 1647625
+    # effect: 'LEVITATION'
+    # duration: 100
+    # amplifier: 0
+    whitelist_biomes:
+      -
+    blacklist_biomes:
+      - 'River'
+  2:
+    name: '&aЖемчужина'
+    chance: 0.005
+    material: 'HEART_OF_THE_SEA'
+    lore:
+      - '&eНизкого сорта'
+    whitelist_biomes:
+      -
+    blacklist_biomes:
+      -
+  3:
+    name: '&aЖемчужина'
+    chance: 0.005
+    material: 'HEART_OF_THE_SEA'
+    lore:
+      - '&fСреднего сорта'
+    whitelist_biomes:
+      -
+    blacklist_biomes:
+      -
+  4:
+    name: '&aЖемчужина'
+    chance: 0.0025
+    material: 'HEART_OF_THE_SEA'
+    lore:
+      - '&6Высокого сорта'
+    whitelist_biomes:
+      -
+    blacklist_biomes:
+      -
+  5:
+    name: '&aЖемчужина'
+    chance: 0.00083
+    material: 'HEART_OF_THE_SEA'
+    lore:
+      - '&6Высокого сорта'
+    whitelist_biomes:
+      - 'OCEAN'
+      - 'COLD_OCEAN'
+      - 'DEEP_FROZEN_OCEAN'
+      - 'DEEP_LUKEWARM_OCEAN'
+      - 'DEEP_OCEAN'
+      - 'FROZEN_OCEAN'
+      - 'LUKEWARM_OCEAN'
+      - 'WARM_OCEAN'
+    blacklist_biomes:
+      -
+  6:
+    name: '&6Сырой Карп'
+    chance: 0.0166
+    material: 'salmon'
+    lore:
+      - '&fWeight 18.75'
+    whitelist_biomes:
+      -
+    blacklist_biomes:
+      -
+  7:
+    name: '&cСырая Красная рыба'
+    chance: 0.0125
+    material: 'salmon'
+    lore:
+      - '&fWeight: 3.25'
+    whitelist_biomes:
+      - 'FROZEN_OCEAN'
+      - 'COLD_OCEAN'
+      - 'DEEP_FROZEN_OCEAN'
+    blacklist_biomes:
+      -
+  8:
+    name: '&2Гнилое Китовое Мясо'
+    chance: 0.0833
+    material: 'rotten_flesh'
+    lore:
+      - '&fWeight: 8.75'
+    whitelist_biomes:
+      - 'OCEAN'
+      - 'COLD_OCEAN'
+      - 'DEEP_FROZEN_OCEAN'
+      - 'DEEP_LUKEWARM_OCEAN'
+      - 'DEEP_OCEAN'
+      - 'FROZEN_OCEAN'
+      - 'LUKEWARM_OCEAN'
+      - 'WARM_OCEAN'
+    blacklist_biomes:
+      -
+  9:
+    name: '&bСардина Малёк'
+    chance: 0.0125
+    material: 'cod'
+    lore:
+      - '&fWeight: 0.0025'
+    whitelist_biomes:
+      - 'OCEAN'
+      - 'COLD_OCEAN'
+      - 'DEEP_FROZEN_OCEAN'
+      - 'DEEP_LUKEWARM_OCEAN'
+      - 'DEEP_OCEAN'
+      - 'FROZEN_OCEAN'
+      - 'LUKEWARM_OCEAN'
+      - 'WARM_OCEAN'
+    blacklist_biomes:
+      -
+  10:
+    name: '&cСырой Краб'
+    chance: 0.0125
+    material: 'mutton'
+    lore:
+      - ''
+    whitelist_biomes:
+      - 'River'
+    blacklist_biomes:
+      -

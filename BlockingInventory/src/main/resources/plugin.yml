@@ -1,0 +1,5 @@
+name: BlockingInventory
+version: '${project.version}'
+main: org.blockinginventory.blockinginventory.BlockingInventory
+api-version: 1.18
+authors: [Filabdict]

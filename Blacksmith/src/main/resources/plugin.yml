@@ -1,0 +1,22 @@
+name: Blacksmith
+version: '${project.version}'
+main: org.blacksmith.blacksmith.Blacksmith
+api-version: 1.18
+authors: [Filabdict]
+commands:
+  reload:
+    permission: op
+  blacksmith_edit_config:
+    permission: op
+  combine_enchantments:
+    permission: blacksmith
+  apply_enchantments:
+    permission: blacksmith
+  split_enchantments:
+    permission: blacksmith
+  get_count:
+    permission: op
+  set_count:
+    permission: op
+  rename_item:
+    permission: blacksmith

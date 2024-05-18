@@ -1,0 +1,10 @@
+name: mutilation
+version: 1.0.0
+main: org.mutilation.mutilation.Mutilation
+api-version: 1.18
+author: Filabdict
+commands:
+  history_mutilation:
+    description: История увечий
+    usage: /<command> <Player> len
+    permission: mutilation

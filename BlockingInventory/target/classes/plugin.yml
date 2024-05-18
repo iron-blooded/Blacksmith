@@ -1,0 +1,5 @@
+name: BlockingInventory
+version: '1.0-SNAPSHOT'
+main: org.blockinginventory.blockinginventory.BlockingInventory
+api-version: 1.18
+authors: [Filabdict]

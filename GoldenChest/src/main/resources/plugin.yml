@@ -1,0 +1,10 @@
+name: GoldenChest
+version: 1.0.0
+main: org.goldenchest.goldenchest.GoldenChest
+api-version: 1.18
+author: Filabdict
+commands:
+  gc_reload:
+    permission: backpackopener
+  get_gc:
+    permission: backpackopener

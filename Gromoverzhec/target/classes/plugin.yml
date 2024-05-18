@@ -1,0 +1,8 @@
+name: Gromoverzhec
+version: '1.0-SNAPSHOT'
+main: org.gromoverzhec.gromoverzhec.Gromoverzhec
+api-version: 1.18
+authors: [Filabdict]
+#commands:
+#  gromoverzhec_enchant:
+#    permission: blacksmith

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mutilation">
+    <output-path>$USER_HOME$/Рабочий стол/my plugins</output-path>
+    <root id="archive" name="mutilation.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources" />
+      <element id="module-output" name="mutilation" />
+    </root>
+  </artifact>
+</component>

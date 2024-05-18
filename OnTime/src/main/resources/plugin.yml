@@ -1,0 +1,6 @@
+name: OnTime
+version: '${project.version}'
+main: org.ontime.ontime.OnTime
+api-version: 1.18
+authors: [Filabdict]
+description: Доработка плагина OnTime
